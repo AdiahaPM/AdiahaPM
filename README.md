@@ -1,58 +1,52 @@
-# Itoro Daniel — Product Manager
+# Hi, I'm Itoro 
 
-I build products that solve real problems across fintech, AI, EdTech, 
-and SaaS. Based in Lagos, Nigeria, working with teams across Africa 
-and the UK.
+Product Manager building at the intersection of user insight, 
+business outcomes, and technical execution.
 
-## What I do
+Based in Lagos, Nigeria — working across Africa and the UK.
 
-I specialise in taking products from 0→1 and improving them at scale — 
-defining strategy, working across cross-functional teams, and making 
-sure what ships actually moves the needle.
+---
 
-My work sits at the intersection of user insight, business outcomes, 
-and technical feasibility.
+## What I'm working on
 
-## Current Focus
+**SkillSpotter**
+A two-sided marketplace for on-demand local services in the UK.
+Connects customers with verified skilled tradespeople via 
+postcode-based discovery and booking. Currently in pre-launch 
+with an active waitlist.
 
-**SkillSpotter** — a two-sided marketplace in the on-demand local 
-services and gig economy space in the UK. Connects customers with 
-verified skilled service providers through postcode-based discovery 
-and booking. Service providers get self-service onboarding tools to 
-list and manage their services on the platform. Currently in 
-pre-launch campaign mode with a live waitlist.
+**ScoreVyne**
+A fintech platform giving users across Africa ownership of their 
+financial identity — a portable Behavioural Trust Profile (BTP) 
+built from real financial behaviour across platforms.
 
-**ScoreVyne** — a personal project rooted in real frustration. 
-A fintech platform building Africa's first portable Behavioural 
-Trust Profile (BTP) — letting users aggregate their financial 
-behaviour across platforms to own and share a verified financial 
-identity. Targeting salaried employees, freelancers, and SMEs, 
-with B2B use cases for lenders and BNPL platforms across Africa.
+---
+
+## Experience
+
+- Fintech · AI · EdTech · SaaS · Cloud Infrastructure
+- 0→1 product development and cross-functional team leadership
+- UK FCA Compliance & Product Governance certified
+- CSPO — Certified Scrum Product Owner
+
+---
 
 ## Selected Work
 
-**CVsense / DoviLearn Global** — AI | Sole PM  
-Built an AI job matching platform and AI agent for resume 
-optimisation. Drove a 20% activation uplift through iterative 
-product improvements.
+| Project | Domain | Highlight |
+|---|---|---|
+| CVsense | AI | 20% activation uplift, AI job matching & resume optimisation |
+| CloudSania | Cloud | MVP shipped in 4 weeks with 100+ team members |
+| MyBAcoach | EdTech | Platform strategy & UX direction |
+| ScoreVyne | Fintech | Africa-wide BTP platform — in validation |
+| SkillSpotter | Marketplace | UK gig economy — pre-launch |
 
-**CloudSania** — Cloud Infrastructure  
-Coordinated 100+ cross-functional team members to ship an MVP 
-in 4 weeks.
-
-**MyBAcoach (Tech Varsity)** — EdTech | Growth Manager  
-Drove platform strategy and UX improvements for a UK-based 
-coaching product. Shaped feature integration decisions, interface 
-direction, and product changes that improved learner experience.
-
-## Certifications
-
-- CSPO — Certified Scrum Product Owner
-- UK FCA Compliance & Product Governance — Thistle Initiatives
+---
 
 ## Let's connect
 
-📧 Itorod01@gmail.com
-🌐 https://itorod-website.bolt.host/
-💼 https://www.linkedin.com/in/itorodaniel
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://itorod-website.bolt.host/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/itorodaniel
 
+)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](itorod01@gmail.com)
