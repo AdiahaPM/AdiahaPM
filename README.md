@@ -1,59 +1,58 @@
-# Hi, I’m Itoro Daniel
+# Itoro Daniel — Product Manager
 
-Full-stack Product Manager working across SaaS, AI-driven products, and cloud platforms.
+I build products that solve real problems across fintech, AI, EdTech, 
+and SaaS. Based in Lagos, Nigeria, working with teams across Africa 
+and the UK.
 
-I focus on product discovery, execution, and building scalable systems with cross-functional teams.
+## What I do
 
+I specialise in taking products from 0→1 and improving them at scale — 
+defining strategy, working across cross-functional teams, and making 
+sure what ships actually moves the needle.
 
-## What I Work On
-- Product discovery & roadmap definition  
-- PRDs, BRDs, and technical documentation  
-- UX direction, prototyping, and usability testing  
-- AI feature and agent integration  
-- Monetization, pricing, and GTM strategy  
-- Collaboration with frontend, backend, data, and ML teams  
+My work sits at the intersection of user insight, business outcomes, 
+and technical feasibility.
 
+## Current Focus
 
+**SkillSpotter** — a two-sided marketplace in the on-demand local 
+services and gig economy space in the UK. Connects customers with 
+verified skilled service providers through postcode-based discovery 
+and booking. Service providers get self-service onboarding tools to 
+list and manage their services on the platform. Currently in 
+pre-launch campaign mode with a live waitlist.
 
-## Domains
-- AI-powered platforms  
-- Cloud & infrastructure tooling  
-- SaaS products  
-- Fintech & marketplace systems  
-
-
-
-## Tools & Tech
-
-**Product**
-- Jira, Confluence, Trello  
-- Figma, Miro  
-- Slack, GitHub  
-
-**Technical**
-- HTML, CSS, JavaScript (basic)  
-- SQL (basic analysis & CRUD)  
-- Familiar with CI/CD and cloud workflows  
-
----
+**ScoreVyne** — a personal project rooted in real frustration. 
+A fintech platform building Africa's first portable Behavioural 
+Trust Profile (BTP) — letting users aggregate their financial 
+behaviour across platforms to own and share a verified financial 
+identity. Targeting salaried employees, freelancers, and SMEs, 
+with B2B use cases for lenders and BNPL platforms across Africa.
 
 ## Selected Work
-- **FarmFoodHub** — Led 100+ contributors to ship an AI-enabled MVP in 4 weeks  
-- **Cloudsania** — Product positioning, UX revamp, integrations, and monetization flows  
-- **DoviLearn (CVSense)** — AI job-matching platform, improved activation by 18%  
 
----
+**CVsense / DoviLearn Global** — AI | Sole PM  
+Built an AI job matching platform and AI agent for resume 
+optimisation. Drove a 20% activation uplift through iterative 
+product improvements.
 
-## What You will Find Here
-- PRD and documentation samples  
-- Product teardown notes  
-- UX and system flow artifacts  
-- Side projects and experiments  
+**CloudSania** — Cloud Infrastructure  
+Coordinated 100+ cross-functional team members to ship an MVP 
+in 4 weeks.
 
----
+**MyBAcoach (Tech Varsity)** — EdTech | Growth Manager  
+Drove platform strategy and UX improvements for a UK-based 
+coaching product. Shaped feature integration decisions, interface 
+direction, and product changes that improved learner experience.
 
-## Links
-- Portfolio: https://itorod-website.bolt.host/
-- LinkedIn: http://linkedin.com/in/itorodaniel
+## Certifications
 
+- CSPO — Certified Scrum Product Owner
+- UK FCA Compliance & Product Governance — Thistle Initiatives
+
+## Let's connect
+
+📧 Itorod01@gmail.com
+🌐 https://itorod-website.bolt.host/
+💼 https://www.linkedin.com/in/itorodaniel
 
